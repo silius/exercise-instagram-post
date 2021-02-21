@@ -1,0 +1,58 @@
+.post {
+ max-width: 800px;
+ background-color: white;
+ position: relative;
+}
+.phead{
+    display: -webkit-inline-box;
+    display: -moz-inline-box;
+    padding: 1rem;
+    width: 750px;
+}
+.profile {
+    font-size: 2.5rem;
+    margin: 0 20px 0 0;
+}
+.pname{
+    padding: 0;
+    margin: 0;
+}
+.dots{
+    float: right;
+    width: 80%;
+    text-align: right;
+    position: absolute;
+}
+.sdots{
+    /* float: right; */  
+    font-size: larger;
+}
+.pic {
+    width: 100%;
+    height: 100%;
+}
+.icons{
+    padding: 1rem 2rem 0 2rem;
+    margin: 0;
+    font-size: 2rem;
+}
+.fright {
+    float: right;
+}
+.pliked {
+    padding: 2rem 2rem 0 2rem;
+    margin: 0;
+}
+.liked {
+    margin: 0;
+    padding: 0;
+}
+.meh{
+    padding: 1rem 2rem;
+    margin: 0;
+}
+.blahblah {
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
